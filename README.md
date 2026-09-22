@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-jesus-silvano)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leocomprof@gmail.com)
 
-Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, plugins nativos para o OBS, ferramentas desktop e bots para live. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
+Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina, e dou aulas de tecnologia e robótica no **polo de altas habilidades de Araranguá**, para onde fui convidado. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, plugins nativos para o OBS, ferramentas desktop e bots para live. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
 
 ---
 
@@ -40,8 +40,8 @@ Bot para Twitch com overlay em pixel art: os espectadores desfilam no rodapé da
 <details>
 <summary><b>Mais projetos</b></summary>
 
-- **[pc-dashboard](https://github.com/meketreve/pc-dashboard)**: painel do PC transmitido para o tablet, com hardware em tempo real, visualizador de áudio (FFT no navegador), status do OneDrive, métricas de redes sociais e um texugo animado.
-- **[pc-streaming](https://github.com/meketreve/pc-streaming)**: tablet como segundo monitor sem fio no Linux, usando um monitor virtual da NVIDIA e uma segunda instância do Sunshine.
+- **[Toca do Texugo](https://github.com/meketreve/toca-do-texugo)**: painel do PC transmitido para o tablet, com hardware em tempo real, visualizador de áudio (FFT no navegador), status do OneDrive, métricas de redes sociais e um texugo animado.
+- **[monitor-virtual-tablet](https://github.com/meketreve/monitor-virtual-tablet)**: tablet como segundo monitor sem fio no Linux, usando um monitor virtual da NVIDIA e uma segunda instância do Sunshine.
 - **[MacroWing](https://github.com/meketreve/macrowing)**: gerenciador de macros de teclado e mouse com gravação, hotkeys globais e interface em PyQt6.
 - **[image-to-ASCII](https://github.com/meketreve/projeto-docker-image-to-ASCII)**: web service conteinerizado que converte imagens em arte ASCII.
 
@@ -62,6 +62,11 @@ Bot para Twitch com overlay em pixel art: os espectadores desfilam no rodapé da
 ---
 
 ## 💼 Experiência
+
+**Professor de Tecnologia e Robótica · Polo de Altas Habilidades/Superdotação de Araranguá/SC** *(atual)*
+- Convidado para integrar o polo, que atende estudantes com altas habilidades/superdotação da região
+- Aulas de tecnologia e robótica com foco em projetos autorais, prototipagem e resolução de problemas
+- Trabalho com turmas de ritmo acelerado, ajustando profundidade e desafio ao repertório de cada estudante
 
 **Professor Orientador do Laboratório de Tecnologias Educacionais · Rede Estadual de SC (SED/SC)** *(atual)*
 - Responsável pelo laboratório de tecnologia da escola: gestão dos equipamentos e recursos digitais e apoio aos professores no uso de tecnologia em sala de aula
