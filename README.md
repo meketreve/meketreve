@@ -58,42 +58,48 @@ Bot para Twitch com overlay em pixel art: os espectadores desfilam no rodapé da
 | **Infra e DevOps** | Docker / Compose · GitHub Actions · Linux · Proxmox · Vercel · AWS (fundamentos) |
 | **APIs e integrações** | Twitch API · EVE ESI / SSO · Windows DWM · OBS Studio SDK · OAuth2 · REST |
 | **Sistemas** | Windows (avançado) · Linux (intermediário) |
+| **Robótica e educação** | Robótica educacional com kits LEGO · pensamento computacional · prototipagem com estudantes |
 
 ---
 
 ## 💼 Experiência
 
-**Professor de Tecnologia e Robótica · Polo de Altas Habilidades/Superdotação de Araranguá/SC** *(atual)*
+**Professor de Tecnologia e Robótica · Polo de Altas Habilidades/Superdotação de Araranguá/SC** *(set/2026 – atual)*
 - Convidado para integrar o polo, que atende estudantes com altas habilidades/superdotação da região
 - Aulas de tecnologia e robótica com foco em projetos autorais, prototipagem e resolução de problemas
 - Trabalho com turmas de ritmo acelerado, ajustando profundidade e desafio ao repertório de cada estudante
 
-**Professor Orientador do Laboratório de Tecnologias Educacionais · Rede Estadual de SC (SED/SC)** *(atual)*
+**Professor Orientador do Laboratório de Tecnologias Educacionais · Rede Estadual de SC (SED/SC)** *(mai/2026 – atual)*
 - Responsável pelo laboratório de tecnologia da escola: gestão dos equipamentos e recursos digitais e apoio aos professores no uso de tecnologia em sala de aula
 - Pesquisa e orientação sobre ferramentas e recursos tecnológicos para a escola, em articulação com a rede de Tecnologias Educacionais da SED
 - Desenvolvimento do **[Lógica em Jogo](https://github.com/meketreve/logica-em-jogo)**, jogo voxel autoral para ensinar pensamento computacional sem depender de licença paga
 
-**Professor de Tecnologia · Programa Mais Tempo, Mais Saber (SC Integral)** *(atual)*
+**Professor de Tecnologia · Programa Mais Tempo, Mais Saber (SC Integral)** *(jul/2026 – atual)*
 - Oficinas de tecnologia no contraturno escolar, dentro do programa estadual de ampliação da jornada lançado em 2026
 - Trabalho com educação digital, pensamento computacional e resolução de problemas com os estudantes da rede estadual
 
-**Analista de Suporte Técnico Bilíngue N1 · BetBoom LATAM** *(home office)*
+**Analista de Suporte Técnico Bilíngue N1 · BetBoom LATAM** *(ago/2024 – out/2025 · home office)*
 - Picos de **30 atendimentos simultâneos** e **1.200 chamados em um único dia** durante a migração de domínio da plataforma
 - Resolução de problemas de dispositivo, autenticação, credenciais e validação de documentos, com triagem e escalonamento para N2/N3
 - Identificação e contenção de fraudes e bloqueio de ataques via arquivos maliciosos
 - Criei uma **ferramenta interna de consulta** para verificar contas em eventos e promoções
 - Toda a comunicação em inglês com a equipe e clientes internacionais
 
-**Representante Comercial no Brasil · INVTO Agency (Hungria)** *(MEI)*
+**Representante Comercial no Brasil · INVTO Agency (Hungria)** *(jan/2023 – jan/2024 · MEI)*
 - Único representante da empresa no Brasil; montei a operação comercial BR do zero
 - Prospecção, negociação e fechamento de contratos com streamers da Twitch para campanhas de marcas internacionais
 - **Mais de 30 contratos e campanhas fechados em 12 meses**, em inglês com a matriz
+
+**Monitor da Sala do LEGO · EEB Catulo da Paixão Cearense, Sombrio/SC** *(2013 · ensino médio)*
+- Um dos três estudantes responsáveis pela sala de robótica LEGO da escola, durante o 2º ano do ensino médio
+- Montagem, programação e manutenção dos kits, além de apoio às turmas que usavam o espaço
+- Primeiro contato com robótica educacional, hoje retomado como professor no polo de altas habilidades
 
 ---
 
 ## 🎓 Formação e certificações
 
-- **Análise e Desenvolvimento de Sistemas (ADS)**, ETEP EAD, *em andamento*
+- **Análise e Desenvolvimento de Sistemas (ADS)**, ETEP EAD, *cursando desde ago/2025 · conclusão prevista para o início de 2028*
 - **Carreira Tech: Trilha Desenvolvimento de Software**, SCTEC / SENAI / SESI, 180h cursadas
 - **IA na Prática**, SCTEC / SENAI / SESI, 46h, *concluído*
 - **Inglês C2 Proficient**, EF SET (72/100)
