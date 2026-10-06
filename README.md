@@ -12,14 +12,14 @@
 
 📄 **[Baixar meu currículo em PDF](curriculo-leonardo-jesus-silvano.pdf)**
 
-Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina, e dou aulas de tecnologia e robótica no **polo de altas habilidades de Araranguá**, para onde fui convidado. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, um toolkit nativo de dez ferramentas para o OBS Studio, apps desktop e ferramentas para quem programa com agentes. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
+Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina, e dou aulas de tecnologia e robótica no **polo de altas habilidades de Araranguá**, para onde fui convidado. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, um toolkit nativo de nove ferramentas para o OBS Studio, apps desktop e ferramentas para quem programa com agentes. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
 
 ---
 
 ## 🚀 Projetos em destaque
 
 ### 🎛️ [Meketreve OBS Essentials](https://github.com/meketreve/meketreve-obs-essentials) · [site](https://meketreve.github.io/meketreve-obs-essentials/)
-Plugin nativo que reúne **dez ferramentas** para o OBS Studio num pacote só: *Bass Shake* (treme a fonte no ritmo do grave), *Voice FX Mixer* (cadeia de efeitos de voz ao vivo), **Unified Chat** juntando Twitch, YouTube e Kick num painel, **Multistream** para várias plataformas ao mesmo tempo, **canvas vertical 9:16**, **Layout Tabs** para trocar o layout inteiro de docks, overlays de alerta, metas, enquete e subathon configurados por um painel web, e o **chat bot Texuguito** embutido. Build Windows/macOS/Linux, instalador e `.deb` gerados pelo GitHub Actions. **12 releases publicadas**, na v1.9.0.
+Plugin nativo que reúne **nove ferramentas** para o OBS Studio num pacote só: *Bass Shake* (treme a fonte no ritmo do grave), *Voice FX Mixer* (cadeia de efeitos de voz ao vivo), **Unified Chat** juntando Twitch, YouTube e Kick num painel, **Multistream** para várias plataformas ao mesmo tempo, **canvas vertical 9:16**, **Layout Tabs** para trocar o layout inteiro de docks, overlays de alerta, metas, enquete e subathon configurados por um painel web, e o **chat bot Texuguito** embutido. Build Windows/macOS/Linux, instalador e `.deb` gerados pelo GitHub Actions. **12 releases publicadas**, na v1.9.0.
 `C/C++` `Qt` `CMake` `DSP` `WebSocket` `CI/CD`
 
 ### 🧱 [Lógica em Jogo](https://github.com/meketreve/logica-em-jogo)
