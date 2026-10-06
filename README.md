@@ -42,10 +42,6 @@ Jogo 2D de exploração espacial com **servidor autoritativo**: um asteroide de 
 Pesquisa própria sobre uma arquitetura de IA cujo mecanismo central **não é uma grande coleção de tensores densos**, e sim experiências, relações e memória atualizada durante a execução, sem ciclo de re-treino. Inclui formalização matemática, busca em cascata esparsa (índice invertido → fingerprint → grafo) e tratamento de proveniência que separa *frequência* de *independência das evidências*. A primeira versão foi medida contra **13 previsões falsificáveis: 10 confirmadas, 1 parcial e 2 refutadas**.
 `Python` `pesquisa` `modelagem formal`
 
-### 👁️ [Eye Mask Tracker](https://github.com/meketreve/aye-aye-sir-face-tracking-)
-Plugin de OBS que rastreia o rosto em tempo real e aplica uma máscara de imagem ou vídeo, deformando junto com a malha facial de 468 pontos.
-`C++` `OpenCV` `ONNX Runtime` `MediaPipe`
-
 ### 🪟 [client-o-preview](https://github.com/meketreve/client-o-preview)
 App Windows que mostra miniaturas ao vivo de outras janelas pela API nativa DWM Thumbnails, com zoom, recorte de região e hotkeys. **10 releases publicadas** (até a v0.9.0).
 `C#` `WPF` `.NET 8` `Win32/DWM`
@@ -70,6 +66,7 @@ Rota para fechar as **88 conquistas** de Factorio 2.1 numa única partida, publi
 <summary><b>Mais projetos</b></summary>
 
 - **[construction-drones-meketreve-flavor](https://github.com/meketreve/construction-drones-meketreve-flavor)**: mod de Factorio; fork do *Updated Construction Drones* atualizado para a versão 2.1, com coleta em baús.
+- **[Eye Mask Tracker](https://github.com/meketreve/aye-aye-sir-face-tracking-)**: plugin de OBS que rastreia o rosto em tempo real e aplica uma máscara de imagem ou vídeo, deformando junto com a malha facial de 468 pontos. `C++` `OpenCV` `ONNX Runtime` `MediaPipe` — *em processo de incorporação ao OBS Essentials*.
 - **[Toca do Texugo](https://github.com/meketreve/toca-do-texugo)**: painel do PC transmitido para o tablet, com hardware em tempo real, visualizador de áudio (FFT no navegador), status do OneDrive, métricas de redes sociais e um texugo animado.
 - **[monitor-virtual-tablet](https://github.com/meketreve/monitor-virtual-tablet)**: tablet como segundo monitor sem fio no Linux, usando um monitor virtual da NVIDIA e uma segunda instância do Sunshine.
 - **[MacroWing](https://github.com/meketreve/macrowing)**: gerenciador de macros de teclado e mouse com gravação, hotkeys globais e interface em PyQt6.
