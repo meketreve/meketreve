@@ -1,3 +1,5 @@
+![Banner](.github/banner.jpg)
+
 # Olá, eu sou o Leonardo 🦡
 
 **Professor de tecnologia · Desenvolvimento de software · Suporte técnico bilíngue**
