@@ -29,6 +29,14 @@ Plataforma web de gestão de coletas e entregas para uma empresa de motoboy de A
 Site de orçamento e agendamento para uma dog walker de Araranguá/SC, **em produção**. A calculadora de preços, a página de serviços e a de área atendida são geradas a partir de um único arquivo de preços, bairros e zonas — o negócio muda os valores sem mexer no código. Inclui um bot de WhatsApp para o atendimento e roda inteiro no plano grátis do Cloudflare.
 `Astro` `TypeScript` `Cloudflare Workers` `D1` `Turnstile` *(código privado)*
 
+### 🛰️ Fronteira Estelar *(código privado)*
+Jogo 2D de exploração espacial com **servidor autoritativo**: um asteroide de 1,5 km de raio que existe sem guardar uma única célula no banco, linha de visada real para o jogador de traje e uma cadeia de produção que vai da picareta ao transmissor de rádio. O servidor é **Rust compilado para WASM rodando dentro do SpacetimeDB**; o cliente é TypeScript com PixiJS. Protótipo em desenvolvimento.
+`Rust` `WASM` `SpacetimeDB` `TypeScript` `PixiJS` `Vite`
+
+### 🧠 BOB — arquitetura experimental de IA *(código privado)*
+Pesquisa própria sobre uma arquitetura de IA cujo mecanismo central **não é uma grande coleção de tensores densos**, e sim experiências, relações e memória atualizada durante a execução, sem ciclo de re-treino. Inclui formalização matemática, busca em cascata esparsa (índice invertido → fingerprint → grafo) e tratamento de proveniência que separa *frequência* de *independência das evidências*. A primeira versão foi medida contra **13 previsões falsificáveis: 10 confirmadas, 1 parcial e 2 refutadas**.
+`Python` `pesquisa` `modelagem formal`
+
 ### 👁️ [Eye Mask Tracker](https://github.com/meketreve/aye-aye-sir-face-tracking-)
 Plugin de OBS que rastreia o rosto em tempo real e aplica uma máscara de imagem ou vídeo, deformando junto com a malha facial de 468 pontos.
 `C++` `OpenCV` `ONNX Runtime` `MediaPipe`
