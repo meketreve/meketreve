@@ -10,6 +10,8 @@
 
 📱 **(48) 92002-7086** — prefiro contato pelo WhatsApp.
 
+📄 **[Baixar meu currículo em PDF](curriculo-leonardo-jesus-silvano.pdf)**
+
 Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina, e dou aulas de tecnologia e robótica no **polo de altas habilidades de Araranguá**, para onde fui convidado. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, um toolkit nativo de dez ferramentas para o OBS Studio, apps desktop e ferramentas para quem programa com agentes. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
 
 ---
