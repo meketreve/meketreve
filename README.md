@@ -21,6 +21,14 @@ Plugin nativo que reúne **dez ferramentas** para o OBS Studio num pacote só: *
 Jogo sandbox **voxel 3D** para ensinar pensamento lógico no Ensino Fundamental, criado para uma escola estadual de Araranguá/SC como alternativa gratuita ao Minecraft Education. Roda **no navegador, em rede local, sem internet e sem instalar nada** no dispositivo do aluno. O professor monta os cenários dentro do próprio jogo, sem programar. Engine e assets são autorais.
 `TypeScript` `Three.js` `Node.js` `WebSocket` `Vite`
 
+### 🛵 [Lis Express](https://www.lis-express.com.br/)
+Plataforma web de gestão de coletas e entregas para uma empresa de motoboy de Araranguá/SC, **em produção**. Cálculo de preço por bairro e zona, acompanhamento dos pedidos, perfis separados para cliente, entregador e operação, e notificações por Web Push num PWA. Geolocalização com OpenRouteService e cache local; endereços via ViaCEP.
+`React` `TypeScript` `Vite` `Tailwind` `Zustand` `TanStack Query` `Supabase` `PWA` *(código privado)*
+
+### 🐕 [Cãopanhia](https://caopanhia.techopcgamer.workers.dev/)
+Site de orçamento e agendamento para uma dog walker de Araranguá/SC, **em produção**. A calculadora de preços, a página de serviços e a de área atendida são geradas a partir de um único arquivo de preços, bairros e zonas — o negócio muda os valores sem mexer no código. Inclui um bot de WhatsApp para o atendimento e roda inteiro no plano grátis do Cloudflare.
+`Astro` `TypeScript` `Cloudflare Workers` `D1` `Turnstile` *(código privado)*
+
 ### 👁️ [Eye Mask Tracker](https://github.com/meketreve/aye-aye-sir-face-tracking-)
 Plugin de OBS que rastreia o rosto em tempo real e aplica uma máscara de imagem ou vídeo, deformando junto com a malha facial de 468 pontos.
 `C++` `OpenCV` `ONNX Runtime` `MediaPipe`
@@ -53,6 +61,7 @@ Rota para fechar as **88 conquistas** de Factorio 2.1 numa única partida, publi
 - **[monitor-virtual-tablet](https://github.com/meketreve/monitor-virtual-tablet)**: tablet como segundo monitor sem fio no Linux, usando um monitor virtual da NVIDIA e uma segunda instância do Sunshine.
 - **[MacroWing](https://github.com/meketreve/macrowing)**: gerenciador de macros de teclado e mouse com gravação, hotkeys globais e interface em PyQt6.
 - **[image-to-ASCII](https://github.com/meketreve/projeto-docker-image-to-ASCII)**: web service conteinerizado que converte imagens em arte ASCII.
+- **[Guild Masters](https://guild-masters.vercel.app/)**: site institucional de um servidor de Minecraft RPG medieval, com lore, classes, ranking de guildas e cinco tiers de VIP com modal de compra. `Next.js 14` `Tailwind` `Framer Motion` *(código privado)*
 - **[texuguito-seu-bot-amigo](https://github.com/meketreve/texuguito-seu-bot-amigo)**: bot de Twitch em Python com overlay em pixel art. *Descontinuado* — foi reescrito e hoje roda dentro do OBS Essentials.
 - **[tutorial_smt](https://github.com/meketreve/tutorial_smt)** e **[DataBoy](https://github.com/meketreve/DataBoy)**: tutorial de instalação do SMT e um bot de Telegram em Lua, projetos mais antigos.
 
@@ -65,8 +74,8 @@ Rota para fechar as **88 conquistas** de Factorio 2.1 numa única partida, publi
 | Área | Ferramentas |
 |---|---|
 | **Linguagens** | Python · C# · TypeScript · JavaScript · C/C++ · Lua · Shell · HTML/CSS |
-| **Frameworks** | .NET 8 / WPF · Qt · Next.js / React · Three.js · FastAPI · Flask · PyQt6 · NiceGUI · SQLAlchemy |
-| **Infra e DevOps** | Docker / Compose · GitHub Actions · Linux · Proxmox · Vercel · AWS (fundamentos) |
+| **Frameworks** | .NET 8 / WPF · Qt · Next.js / React · Astro · Three.js · Tailwind · FastAPI · Flask · PyQt6 · NiceGUI · SQLAlchemy |
+| **Infra e DevOps** | Docker / Compose · GitHub Actions · Linux · Proxmox · Vercel · Cloudflare Workers / D1 · Supabase · AWS (fundamentos) |
 | **APIs e integrações** | Twitch · YouTube · Kick · RTMP/SRT · EVE ESI / SSO · Windows DWM · OBS Studio SDK · OAuth2 · REST · WebSocket |
 | **Sistemas** | Windows (avançado) · Linux (intermediário) |
 | **Robótica e educação** | Robótica educacional com kits LEGO · pensamento computacional · prototipagem com estudantes |
