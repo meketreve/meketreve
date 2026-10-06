@@ -7,23 +7,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-jesus-silvano)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leocomprof@gmail.com)
 
-Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina, e dou aulas de tecnologia e robótica no **polo de altas habilidades de Araranguá**, para onde fui convidado. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, plugins nativos para o OBS, ferramentas desktop e bots para live. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
+Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina, e dou aulas de tecnologia e robótica no **polo de altas habilidades de Araranguá**, para onde fui convidado. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, um toolkit nativo de dez ferramentas para o OBS Studio, apps desktop e ferramentas para quem programa com agentes. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
 
 ---
 
 ## 🚀 Projetos em destaque
 
+### 🎛️ [Meketreve OBS Essentials](https://github.com/meketreve/meketreve-obs-essentials) · [site](https://meketreve.github.io/meketreve-obs-essentials/)
+Plugin nativo que reúne **dez ferramentas** para o OBS Studio num pacote só: *Bass Shake* (treme a fonte no ritmo do grave), *Voice FX Mixer* (cadeia de efeitos de voz ao vivo), **Unified Chat** juntando Twitch, YouTube e Kick num painel, **Multistream** para várias plataformas ao mesmo tempo, **canvas vertical 9:16**, **Layout Tabs** para trocar o layout inteiro de docks, overlays de alerta, metas, enquete e subathon configurados por um painel web, e o **chat bot Texuguito** embutido. Build Windows/macOS/Linux, instalador e `.deb` gerados pelo GitHub Actions. **12 releases publicadas**, na v1.9.0.
+`C/C++` `Qt` `CMake` `DSP` `WebSocket` `CI/CD`
+
 ### 🧱 [Lógica em Jogo](https://github.com/meketreve/logica-em-jogo)
 Jogo sandbox **voxel 3D** para ensinar pensamento lógico no Ensino Fundamental, criado para uma escola estadual de Araranguá/SC como alternativa gratuita ao Minecraft Education. Roda **no navegador, em rede local, sem internet e sem instalar nada** no dispositivo do aluno. O professor monta os cenários dentro do próprio jogo, sem programar. Engine e assets são autorais.
 `TypeScript` `Three.js` `Node.js` `WebSocket` `Vite`
 
-### 🎥 Plugins nativos para OBS Studio
-- **[Eye Mask Tracker](https://github.com/meketreve/aye-aye-sir-face-tracking-)**: filtro que rastreia o rosto em tempo real e aplica uma máscara de imagem ou vídeo, deformando junto com a malha facial de 468 pontos. `C++` `OpenCV` `ONNX Runtime` `MediaPipe`
-- **[OBS Essentials](https://github.com/meketreve/meketreve-obs-essentials)**: *Bass Shake*, que treme a fonte no ritmo do grave, e *Voice FX Mixer*, uma cadeia de efeitos de voz ao vivo. Build multiplataforma e instalador Windows gerados pelo GitHub Actions. `C` `CMake` `DSP` `CI/CD`
-
-### 🃏 [Netrunner Clash](https://github.com/meketreve/Netrunner-Clash) · [▶ jogar](https://client-gamma-mauve.vercel.app)
-Card game cyberpunk por turnos com multiplayer em tempo real, matchmaking, ranking e login com Google.
-`Next.js` `React` `TypeScript` `SpacetimeDB` `Vercel`
+### 👁️ [Eye Mask Tracker](https://github.com/meketreve/aye-aye-sir-face-tracking-)
+Plugin de OBS que rastreia o rosto em tempo real e aplica uma máscara de imagem ou vídeo, deformando junto com a malha facial de 468 pontos.
+`C++` `OpenCV` `ONNX Runtime` `MediaPipe`
 
 ### 🪟 [client-o-preview](https://github.com/meketreve/client-o-preview)
 App Windows que mostra miniaturas ao vivo de outras janelas pela API nativa DWM Thumbnails, com zoom, recorte de região e hotkeys. **10 releases publicadas** (até a v0.9.0).
@@ -33,17 +33,28 @@ App Windows que mostra miniaturas ao vivo de outras janelas pela API nativa DWM 
 App desktop para industrialistas do EVE Online: custo de produção com BOM recursivo, margens, oportunidades de importação e projeção de mercado. Arquitetura cache-first com crawl em segundo plano.
 `Python` `SQLAlchemy async` `SQLite` `OAuth2 (EVE SSO)` `NiceGUI`
 
-### 🦡 [Texuguito, seu bot amigo](https://github.com/meketreve/texuguito-seu-bot-amigo)
-Bot para Twitch com overlay em pixel art: os espectadores desfilam no rodapé da live com avatar personalizável e trocam pontos do canal por áudios, TTS e sorteios. O setup é automatizado com um clique.
-`Python` `TwitchIO` `FastAPI` `OAuth2` `TTS`
+### 🃏 [Netrunner Clash](https://github.com/meketreve/Netrunner-Clash) · [▶ jogar](https://client-gamma-mauve.vercel.app)
+Card game cyberpunk por turnos com multiplayer em tempo real, matchmaking, ranking e login com Google.
+`Next.js` `React` `TypeScript` `SpacetimeDB` `Vercel`
+
+### 🧰 [skill-contexto](https://github.com/meketreve/skill-contexto)
+Skill que monta contexto de projeto em **três tiers** para agentes de código (Claude Code, opencode e outros que leem `SKILL.md`). O script faz o andaime mecânico sem gastar token e o modelo só preenche o que exige julgamento. Instalador detecta os harnesses da máquina e cria os symlinks; templates em português e inglês.
+`Shell` `Markdown` `Agent Skills`
+
+### 🏁 [Run 100% — Factorio 2.1](https://github.com/meketreve/factorio-run-100) · [▶ abrir a rota](https://meketreve.github.io/factorio-run-100/)
+Rota para fechar as **88 conquistas** de Factorio 2.1 numa única partida, publicada como página interativa: checklist com progresso salvo no navegador, travas de ordem, sequência exata de crafting manual e blueprints prontos.
+`HTML` `JavaScript` `GitHub Pages`
 
 <details>
 <summary><b>Mais projetos</b></summary>
 
+- **[construction-drones-meketreve-flavor](https://github.com/meketreve/construction-drones-meketreve-flavor)**: mod de Factorio; fork do *Updated Construction Drones* atualizado para a versão 2.1, com coleta em baús.
 - **[Toca do Texugo](https://github.com/meketreve/toca-do-texugo)**: painel do PC transmitido para o tablet, com hardware em tempo real, visualizador de áudio (FFT no navegador), status do OneDrive, métricas de redes sociais e um texugo animado.
 - **[monitor-virtual-tablet](https://github.com/meketreve/monitor-virtual-tablet)**: tablet como segundo monitor sem fio no Linux, usando um monitor virtual da NVIDIA e uma segunda instância do Sunshine.
 - **[MacroWing](https://github.com/meketreve/macrowing)**: gerenciador de macros de teclado e mouse com gravação, hotkeys globais e interface em PyQt6.
 - **[image-to-ASCII](https://github.com/meketreve/projeto-docker-image-to-ASCII)**: web service conteinerizado que converte imagens em arte ASCII.
+- **[texuguito-seu-bot-amigo](https://github.com/meketreve/texuguito-seu-bot-amigo)**: bot de Twitch em Python com overlay em pixel art. *Descontinuado* — foi reescrito e hoje roda dentro do OBS Essentials.
+- **[tutorial_smt](https://github.com/meketreve/tutorial_smt)** e **[DataBoy](https://github.com/meketreve/DataBoy)**: tutorial de instalação do SMT e um bot de Telegram em Lua, projetos mais antigos.
 
 </details>
 
@@ -54,9 +65,9 @@ Bot para Twitch com overlay em pixel art: os espectadores desfilam no rodapé da
 | Área | Ferramentas |
 |---|---|
 | **Linguagens** | Python · C# · TypeScript · JavaScript · C/C++ · Lua · Shell · HTML/CSS |
-| **Frameworks** | .NET 8 / WPF · Next.js / React · Three.js · FastAPI · Flask · PyQt6 · NiceGUI · SQLAlchemy |
+| **Frameworks** | .NET 8 / WPF · Qt · Next.js / React · Three.js · FastAPI · Flask · PyQt6 · NiceGUI · SQLAlchemy |
 | **Infra e DevOps** | Docker / Compose · GitHub Actions · Linux · Proxmox · Vercel · AWS (fundamentos) |
-| **APIs e integrações** | Twitch API · EVE ESI / SSO · Windows DWM · OBS Studio SDK · OAuth2 · REST |
+| **APIs e integrações** | Twitch · YouTube · Kick · RTMP/SRT · EVE ESI / SSO · Windows DWM · OBS Studio SDK · OAuth2 · REST · WebSocket |
 | **Sistemas** | Windows (avançado) · Linux (intermediário) |
 | **Robótica e educação** | Robótica educacional com kits LEGO · pensamento computacional · prototipagem com estudantes |
 
