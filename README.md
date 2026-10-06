@@ -6,6 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-jesus-silvano)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leocomprof@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548920027086)
+
+📱 **(48) 92002-7086** — prefiro contato pelo WhatsApp.
 
 Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina, e dou aulas de tecnologia e robótica no **polo de altas habilidades de Araranguá**, para onde fui convidado. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, um toolkit nativo de dez ferramentas para o OBS Studio, apps desktop e ferramentas para quem programa com agentes. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
 
