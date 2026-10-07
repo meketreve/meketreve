@@ -14,15 +14,15 @@
 
 📄 **[Baixar meu currículo em PDF](curriculo-leonardo-jesus-silvano.pdf)**
 
-Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina, e dou aulas de tecnologia e robótica no **polo de altas habilidades de Araranguá**, para onde fui convidado. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, um toolkit nativo de nove ferramentas para o OBS Studio, apps desktop e ferramentas para quem programa com agentes. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
+Sou professor orientador do Laboratório de Tecnologias Educacionais e professor de tecnologia no programa **Mais Tempo, Mais Saber** na rede estadual de Santa Catarina, e dou aulas de tecnologia e robótica no **polo de altas habilidades de Araranguá**, para onde fui convidado. Em paralelo, desenvolvo projetos próprios que resolvem problemas reais: um jogo educativo que roda numa escola pública, um toolkit nativo de dez ferramentas para o OBS Studio, apps desktop e ferramentas para quem programa com agentes. Gosto de pegar um problema chato do dia a dia e transformar em ferramenta.
 
 ---
 
 ## 🚀 Projetos em destaque
 
 ### 🎛️ [Meketreve OBS Essentials](https://github.com/meketreve/meketreve-obs-essentials) · [site](https://meketreve.github.io/meketreve-obs-essentials/)
-Plugin nativo que reúne **nove ferramentas** para o OBS Studio num pacote só: *Bass Shake* (treme a fonte no ritmo do grave), *Voice FX Mixer* (cadeia de efeitos de voz ao vivo), **Unified Chat** juntando Twitch, YouTube e Kick num painel, **Multistream** para várias plataformas ao mesmo tempo, **canvas vertical 9:16**, **Layout Tabs** para trocar o layout inteiro de docks, overlays de alerta, metas, enquete e subathon configurados por um painel web, e o **chat bot Texuguito** embutido. Build Windows/macOS/Linux, instalador e `.deb` gerados pelo GitHub Actions. **12 releases publicadas**, na v1.9.0.
-`C/C++` `Qt` `CMake` `DSP` `WebSocket` `CI/CD`
+Plugin nativo que reúne **dez ferramentas** para o OBS Studio num pacote só: *Bass Shake* (treme a fonte no ritmo do grave), **Face Mask** (acha o rosto e desenha imagem ou vídeo sobre ele, plano ou curvado na malha facial de 468 pontos, com inferência local), *Voice FX Mixer* (cadeia de efeitos de voz ao vivo), **Unified Chat** juntando Twitch, YouTube e Kick num painel, **Multistream** para várias plataformas ao mesmo tempo, **canvas vertical 9:16**, **Layout Tabs** para trocar o layout inteiro de docks, overlays de alerta, metas, enquete e subathon configurados por um painel web, e o **chat bot Texuguito** embutido. Build Windows/macOS/Linux, instalador e `.deb` gerados pelo GitHub Actions. **13 releases publicadas**, na v1.10.0.
+`C/C++` `Qt` `CMake` `DSP` `OpenCV` `ONNX Runtime` `WebSocket` `CI/CD`
 
 ### 🧱 [Lógica em Jogo](https://github.com/meketreve/logica-em-jogo)
 Jogo sandbox **voxel 3D** para ensinar pensamento lógico no Ensino Fundamental, criado para uma escola estadual de Araranguá/SC como alternativa gratuita ao Minecraft Education. Roda **no navegador, em rede local, sem internet e sem instalar nada** no dispositivo do aluno. O professor monta os cenários dentro do próprio jogo, sem programar. Engine e assets são autorais.
@@ -68,13 +68,13 @@ Rota para fechar as **88 conquistas** de Factorio 2.1 numa única partida, publi
 <summary><b>Mais projetos</b></summary>
 
 - **[construction-drones-meketreve-flavor](https://github.com/meketreve/construction-drones-meketreve-flavor)**: mod de Factorio; fork do *Updated Construction Drones* atualizado para a versão 2.1, com coleta em baús.
-- **[Eye Mask Tracker](https://github.com/meketreve/aye-aye-sir-face-tracking-)**: plugin de OBS que rastreia o rosto em tempo real e aplica uma máscara de imagem ou vídeo, deformando junto com a malha facial de 468 pontos. `C++` `OpenCV` `ONNX Runtime` `MediaPipe` — *em processo de incorporação ao OBS Essentials*.
 - **[Toca do Texugo](https://github.com/meketreve/toca-do-texugo)**: painel do PC transmitido para o tablet, com hardware em tempo real, visualizador de áudio (FFT no navegador), status do OneDrive, métricas de redes sociais e um texugo animado.
 - **[monitor-virtual-tablet](https://github.com/meketreve/monitor-virtual-tablet)**: tablet como segundo monitor sem fio no Linux, usando um monitor virtual da NVIDIA e uma segunda instância do Sunshine.
 - **[MacroWing](https://github.com/meketreve/macrowing)**: gerenciador de macros de teclado e mouse com gravação, hotkeys globais e interface em PyQt6.
 - **[image-to-ASCII](https://github.com/meketreve/projeto-docker-image-to-ASCII)**: web service conteinerizado que converte imagens em arte ASCII.
 - **[Guild Masters](https://guild-masters.vercel.app/)**: site institucional de um servidor de Minecraft RPG medieval, com lore, classes, ranking de guildas e cinco tiers de VIP com modal de compra. `Next.js 14` `Tailwind` `Framer Motion` *(código privado)*
 - **[texuguito-seu-bot-amigo](https://github.com/meketreve/texuguito-seu-bot-amigo)**: bot de Twitch em Python com overlay em pixel art. *Descontinuado* — foi reescrito e hoje roda dentro do OBS Essentials.
+- **[aye-aye-sir-face-tracking-](https://github.com/meketreve/aye-aye-sir-face-tracking-)**: plugin de face tracking para OBS em C++. *Descontinuado* — foi absorvido pelo OBS Essentials como a ferramenta **Face Mask**.
 - **[tutorial_smt](https://github.com/meketreve/tutorial_smt)** e **[DataBoy](https://github.com/meketreve/DataBoy)**: tutorial de instalação do SMT e um bot de Telegram em Lua, projetos mais antigos.
 
 </details>
